@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP7375-50SA-7")(type "KiCad")(uri "${KIPRJMOD}/libraries/AP7375-50SA-7.kicad_sym")(options "")(descr ""))
+)
